@@ -1,1 +1,1 @@
-# fibo
+# Script que verificar se o número está na lista de Fibonacci
